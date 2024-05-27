@@ -363,9 +363,7 @@
 		}
 	}
 	
-	
-	</script>
-	<script>
+
 		function calculateYposition() {
 	
 	
