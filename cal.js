@@ -1,4 +1,4 @@
-<script>
+
 		function cleari() {
 			$('.ii').each(function(i) {
 				$(this).val('');
@@ -14,8 +14,6 @@
 			})
 		}
 
-	</script>	  
-<script>
 	var totalinpt = document.getElementsByTagName('input');
 	
 	for (i = 0; i < totalinpt.length; i++) {
@@ -436,4 +434,4 @@
 	
 		$('#yy').html(ItheoryY.plus(OtheoryY).toFixed(4));
 		}
-	</script>
+
